@@ -1,6 +1,18 @@
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME:RAMYA.S
+
+INTERN ID:CT12QTC
+
+DOMAIN:BACK END DEVELOPMENT
+
+DURATION:8 WEEKS
+
+MENTOR:NEELA SANTOSH
+
 # AI-Powered Movie Recommendation Engine
 
-## Introduction
+## Introduction:
 In the digital age, personalized content recommendations have become essential in enhancing user experience. This project, **AI-Powered Movie Recommendation Engine**, aims to provide users with movie suggestions based on their preferences and past interactions. By leveraging **Machine Learning (ML)** techniques and **FastAPI**, this system delivers fast, efficient, and accurate recommendations.
 
 ## Project Overview
@@ -102,8 +114,8 @@ docker run -p 8000:8000 movie-recommendation
 ```
 
 ## Conclusion
-This **AI-Powered Movie Recommendation Engine** efficiently provides personalized movie recommendations based on user preferences. Using **collaborative filtering** and **FastAPI**, it ensures scalability, speed, and accuracy. This project can be extended further by integrating a **content-based filtering** approach, adding a **database** for persistent storage, or deploying it on a cloud platform for real-world use.
+This **AI-Powered Movie Recommendation Engine** efficiently provides personalized movie recommendations based on user preferences. Using **collaborative filtering** and **FastAPI**, it ensures scalability, speed, and accuracy. This project can be extended further by integrating a **content-based filtering** approach, adding a **database** for persistent storage, or deploying it on a cloud platform for real-world use.This project is a solid foundation for recommendation systems and can be enhanced with more advanced ML techniques for better personalization.
 
----
-This project is a solid foundation for recommendation systems and can be enhanced with more advanced ML techniques for better personalization.
+
+
 
