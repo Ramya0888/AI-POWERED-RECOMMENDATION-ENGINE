@@ -116,6 +116,13 @@ docker run -p 8000:8000 movie-recommendation
 ## Conclusion
 This **AI-Powered Movie Recommendation Engine** efficiently provides personalized movie recommendations based on user preferences. Using **collaborative filtering** and **FastAPI**, it ensures scalability, speed, and accuracy. This project can be extended further by integrating a **content-based filtering** approach, adding a **database** for persistent storage, or deploying it on a cloud platform for real-world use.This project is a solid foundation for recommendation systems and can be enhanced with more advanced ML techniques for better personalization.
 
+## OUTPUT:
+
+## MOVIE RECOMMENDATION FOR USER ID 1:
+## MOVIE RECOMMENDATION FOR USER ID 20:
+## MOVIE RECOMMENDATION FOR USER ID 23:
+
+
 
 
 
