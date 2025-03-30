@@ -119,8 +119,16 @@ This **AI-Powered Movie Recommendation Engine** efficiently provides personalize
 ## OUTPUT:
 
 ## MOVIE RECOMMENDATION FOR USER ID 1:
+
+![Image](https://github.com/user-attachments/assets/bc00ffe8-155a-49c6-9519-d1c053f70f99)
+
 ## MOVIE RECOMMENDATION FOR USER ID 20:
+
+![Image](https://github.com/user-attachments/assets/5939eeb5-843e-4143-a84d-58de97fb1db9)
+
 ## MOVIE RECOMMENDATION FOR USER ID 23:
+
+![Image](https://github.com/user-attachments/assets/9af10885-1a7b-46df-8411-e3b043b681ac)
 
 
 
